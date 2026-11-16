@@ -55,7 +55,7 @@ plt.rcParams.update({
 
 ::: {.callout-tip}
 ## Interactive application
-[Open the Streamlit app](https://disaster-tweets-nlp.streamlit.app){target="_blank"}
+[Open the Streamlit app](https://disaster-tweets-nlp-bors3xarj4upkcwadlegnj.streamlit.app/){target="_blank"}
 :::
 
 ## Introduction

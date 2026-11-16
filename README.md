@@ -336,5 +336,5 @@ The Streamlit app starts immediately from a bundled 1,000-row stratified sample 
 
 - Repository: <https://github.com/TranNguyenVu-code/disaster-tweets-nlp>
 - Report: <https://trannguyenvu-code.github.io/disaster-tweets-nlp/>
-- Streamlit: <https://disaster-tweets-nlp.streamlit.app>
+- Streamlit: <https://disaster-tweets-nlp-bors3xarj4upkcwadlegnj.streamlit.app/>
 - Fork setup: [docs/SETUP_AND_DEPLOYMENT.md](docs/SETUP_AND_DEPLOYMENT.md)
