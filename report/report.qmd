@@ -1,7 +1,7 @@
 ---
 title: "Disaster Tweets: Real or Not?"
 subtitle: "A worked case study in text classification, and a case for choosing a model on more than one metric"
-author: "Your Name"
+author: "Tran Nguyen Vu"
 date: today
 format:
   html:
